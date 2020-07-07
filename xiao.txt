@@ -1,0 +1,10 @@
+cd  /users/sandra
+mkdir recipes
+cd recipes
+mkdir seitan
+mkdir tofu
+cd seitan
+subl smoky_carrot_tahini_seitan_slaw.txt
+cd ../tofu
+subl kung_pao_tofu.txt
+subl basil_ginger_tofu.txt
